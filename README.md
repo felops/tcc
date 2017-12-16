@@ -3,7 +3,7 @@ Projeto desenvolvido como trabalho de conclusão de curso para minha graduação
 
 
 ## Demo
-https://pure-dusk-21159.herokuapp.com/
+https://pure-dusk-21159.herokuapp.com
 
 ## Iniciando a Aplicação
 Criar um banco de dados com o nome `ARANDU` com permissão de escrita e leitura para o usuário `root` e sem senha. Após isto, basta executar o seguinte comando na pasta do projeto:
